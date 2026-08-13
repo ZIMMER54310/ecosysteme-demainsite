@@ -1,0 +1,4 @@
+Title,SiteCode,ClientCode,TypeSite,StatutSite,UrlPublique,UrlPrivee,SourceOfficielle,ModificationAutoriseePar
+DemainSite,DSE,DSE,Site principal,Construction,https://demainsite.fr,Power Pages prive,SharePoint,Super Admin uniquement
+Acti'Dem,ACTIDEM,ACTIDEM,Site client,Maintenance,https://actidem54.fr,Power Pages prive,SharePoint,Admin + proprietaire + personnes autorisees
+Carottagexpert,CAROTTAGEXPERT,CAROTTAGEXPERT,Site client,Maintenance,https://carottagexpert.fr,Power Pages prive,SharePoint,Admin + proprietaire + personnes autorisees

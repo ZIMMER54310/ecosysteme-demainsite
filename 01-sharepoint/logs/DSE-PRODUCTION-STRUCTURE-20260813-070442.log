@@ -1,0 +1,60 @@
+[2026-08-13 07:04:42] Demarrage creation structure officielle DemainSite production.
+[2026-08-13 07:04:48] Connecte a https://blogssite.sharepoint.com/sites/Bibliotheque
+[2026-08-13 07:04:50] Liste existe deja: DSE - Acces Sites
+[2026-08-13 07:04:51] Liste existe deja: DSE - Roles
+[2026-08-13 07:04:53] Liste existe deja: DSE - Groupes Acces
+[2026-08-13 07:04:55] Liste existe deja: SIT - Sites
+[2026-08-13 07:04:56] Liste existe deja: CLI - Clients
+[2026-08-13 07:04:57] Liste existe deja: ART - Articles
+[2026-08-13 07:04:59] Liste existe deja: MDU - Produits
+[2026-08-13 07:05:01] Liste existe deja: COM - Commandes
+[2026-08-13 07:05:05] Liste creee: LIC - Licences
+[2026-08-13 07:05:08] Liste creee: DOC - Documents Client
+[2026-08-13 07:05:12] Liste creee: SUP - Tickets Support
+[2026-08-13 07:05:15] Liste creee: SOC - Reseaux Sociaux
+[2026-08-13 07:05:17] Champ cree: SIT - Sites.SiteCode
+[2026-08-13 07:05:32] Champ cree: SIT - Sites.ClientCode
+[2026-08-13 07:05:34] Champ cree: SIT - Sites.Statut REF
+[2026-08-13 07:05:36] Champ cree: SIT - Sites.Actif
+[2026-08-13 07:05:37] Champ cree: CLI - Clients.SiteCode
+[2026-08-13 07:05:38] Champ cree: CLI - Clients.ClientCode
+[2026-08-13 07:05:40] Champ cree: CLI - Clients.Statut REF
+[2026-08-13 07:05:41] Champ cree: CLI - Clients.Actif
+[2026-08-13 07:05:42] Champ cree: ART - Articles.SiteCode
+[2026-08-13 07:05:43] Champ cree: ART - Articles.ClientCode
+[2026-08-13 07:05:44] Champ cree: ART - Articles.Statut REF
+[2026-08-13 07:05:46] Champ cree: MDU - Produits.SiteCode
+[2026-08-13 07:05:48] Champ cree: MDU - Produits.ClientCode
+[2026-08-13 07:05:50] Champ cree: COM - Commandes.SiteCode
+[2026-08-13 07:05:52] Champ cree: COM - Commandes.ClientCode
+[2026-08-13 07:05:53] Champ cree: COM - Commandes.Statut REF
+[2026-08-13 07:05:54] Champ cree: COM - Commandes.Actif
+[2026-08-13 07:05:55] Champ cree: LIC - Licences.SiteCode
+[2026-08-13 07:05:57] Champ cree: LIC - Licences.ClientCode
+[2026-08-13 07:05:58] Champ cree: LIC - Licences.Statut REF
+[2026-08-13 07:05:59] Champ cree: LIC - Licences.Actif
+[2026-08-13 07:06:00] Champ cree: DOC - Documents Client.SiteCode
+[2026-08-13 07:06:02] Champ cree: DOC - Documents Client.ClientCode
+[2026-08-13 07:06:03] Champ cree: DOC - Documents Client.Statut REF
+[2026-08-13 07:06:04] Champ cree: DOC - Documents Client.Actif
+[2026-08-13 07:06:05] Champ cree: SUP - Tickets Support.SiteCode
+[2026-08-13 07:06:07] Champ cree: SUP - Tickets Support.ClientCode
+[2026-08-13 07:06:08] Champ cree: SUP - Tickets Support.Statut REF
+[2026-08-13 07:06:09] Champ cree: SUP - Tickets Support.Actif
+[2026-08-13 07:06:10] Champ cree: SOC - Reseaux Sociaux.SiteCode
+[2026-08-13 07:06:11] Champ cree: SOC - Reseaux Sociaux.ClientCode
+[2026-08-13 07:06:13] Champ cree: SOC - Reseaux Sociaux.Statut REF
+[2026-08-13 07:06:14] Champ cree: SOC - Reseaux Sociaux.Actif
+[2026-08-13 07:06:15] Champ cree: DSE - Acces Sites.Utilisateur
+[2026-08-13 07:06:16] Champ cree: DSE - Acces Sites.Email
+[2026-08-13 07:06:17] Champ cree: DSE - Acces Sites.Role
+[2026-08-13 07:06:20] Champ cree: DSE - Acces Sites.Valide par
+[2026-08-13 07:06:21] Champ cree: DSE - Acces Sites.PeutVoir
+[2026-08-13 07:06:23] Champ cree: DSE - Acces Sites.PeutGererProduits
+[2026-08-13 07:06:24] Champ cree: DSE - Acces Sites.PeutGererArticles
+[2026-08-13 07:06:25] Champ cree: DSE - Acces Sites.PeutGererDocuments
+[2026-08-13 07:06:27] Champ cree: DSE - Acces Sites.PeutGererCommandes
+[2026-08-13 07:06:29] Acces cree: Pascal ZIMMER - TOUS
+[2026-08-13 07:06:31] Acces cree: Faycal SRIDI - CAROTTAGEXPERT
+[2026-08-13 07:06:32] Acces cree: Denis - ACTIDEM
+[2026-08-13 07:06:32] Termine. Aucune suppression effectuee.

@@ -1,0 +1,4 @@
+Utilisateur,Email,Role,ClientCode,SiteCode,PeutVoir,PeutModifier,PeutGererProduits,PeutGererArticles,PeutGererDocuments,PeutGererCommandes,Actif,ValidePar
+Pascal ZIMMER,pascal@demainsite.com,Super Administrateur,DSE,TOUS,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Pascal ZIMMER
+Faycal SRIDI,ND,Propriétaire,CAROTTAGEXPERT,CAROTTAGEXPERT,Oui,Oui,Non,Non,Oui,Non,Oui,Pascal ZIMMER
+Denis,ND,Propriétaire,ACTIDEM,ACTIDEM,Oui,Oui,Non,Oui,Oui,Non,Oui,Pascal ZIMMER
